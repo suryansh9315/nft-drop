@@ -46,7 +46,7 @@ const NFTDrop = () => {
         <hr className="my-2 border" />
         {address && (
           <p className="text-center text-sm text-rose-400">
-            You're logged in with wallet {address.substring(0, 5)}...
+            You&apos;re logged in with wallet {address.substring(0, 5)}...
             {address.substring(address.length - 5)}
           </p>
         )}
