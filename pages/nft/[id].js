@@ -59,7 +59,7 @@ const NFTDrop = () => {
           <h1 className="text-3xl font-bold lg:text-5xl lg:font-extrabold">
             The MURAKAMI Ape Coding Club | NFT Drop
           </h1>
-          <p className="pt-2 text-xl text-green-500">13 / 21 NFT's claimed</p>
+          <p className="pt-2 text-xl text-green-500">13 / 21 NFT&apos;s claimed</p>
         </div>
         <button className="font-bold mt-10 h-16 w-full bg-red-500 text-white rounded-full">
           Mint NFT (0.01 ETH)
